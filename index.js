@@ -9,7 +9,7 @@ const PORT = 5000;
 
 // 4. Create your "GET" API endpoint
 app.get('/', (req, res) => {
-    res.send('Chlo kro ab insta download');
+    res.send('Chlo kro ab insta download🔪');
 });
 
 // 5. Start the server
